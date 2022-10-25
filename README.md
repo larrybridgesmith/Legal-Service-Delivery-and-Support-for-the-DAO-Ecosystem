@@ -1,5 +1,5 @@
 # Legal-Service-Delivery-and-Support-for-the-DAO-Ecosystem
-This scoping proposal will propose a legal support infrastructure for DAOs - to help DAOs deal with real world legal needs
+
 The Distributed Autonomous Organization (DAO) development community seeks to decentralize decision making and reduce the imposition of nonconsensual constraints to the greatest extent possible. 
 
 In contrast, the world’s legal systems and the enforcement of their decisions represents a highly centralized approach to making agreements and resolving disputes that arise from them.
